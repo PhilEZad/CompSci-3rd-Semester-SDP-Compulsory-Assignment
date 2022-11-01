@@ -1,6 +1,10 @@
 # CompSci-3rd-Semester-SDP-Compulsory-Assignment
  Compulsory Assignment in SDP for EASV CompSci.
  
+ Listening ports:
+ https://localhost:7107
+ http://localhost:5177
+ 
  # Dependencies:
  
  Backend:
