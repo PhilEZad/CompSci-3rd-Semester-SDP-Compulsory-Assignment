@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\API\\API.csproj": {}
+    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\API\\API.csproj": {
+    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Tails\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\API\\obj\\",
+        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tails\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj"
+              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj"
               },
-              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj": {
+    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Tails\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tails\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\Domain.csproj"
+              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Tails\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tails\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Tails\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tails\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -223,8 +223,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj"
+              "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj"
               }
             }
           }

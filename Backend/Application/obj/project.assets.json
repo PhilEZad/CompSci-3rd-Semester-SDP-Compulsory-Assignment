@@ -8,27 +8,19 @@
           "Microsoft.CSharp": "4.7.0"
         },
         "compile": {
-          "lib/netstandard2.1/AutoMapper.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.1/AutoMapper.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/AutoMapper.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.1/AutoMapper.dll": {}
         }
       },
       "FluentValidation/11.2.2": {
         "type": "package",
         "compile": {
-          "lib/net6.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/FluentValidation.dll": {}
         },
         "runtime": {
-          "lib/net6.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/FluentValidation.dll": {}
         }
       },
       "Microsoft.CSharp/4.7.0": {
@@ -47,14 +39,10 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -63,14 +51,10 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -79,14 +63,10 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -305,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Tails\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tails\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -324,8 +304,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\backend\\Domain\\Domain.csproj"
+            "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\Domain\\Domain.csproj"
             }
           }
         }
