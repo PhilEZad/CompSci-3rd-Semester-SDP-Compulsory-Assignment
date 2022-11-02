@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZIj+piCkJ7JbtjYMR3+Bc9H2LQjfsLibaZjdpVTjkzq72mcvPZ6FegUQnSQK8sfKqtH9MLo3/Mm09bds2JW7w==",
+  "dgSpecHash": "3YHjlBd5QFlVdn1Nmds92b0aJmd+/U1+xQlya9cPgMbcGwa61KFUZ7fIclBOvRmHIsxPBZmXgmDPi1VWY5WV+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Tails\\Documents\\GitHub\\CompSci-3rd-Semester-SDP-Compulsory-Assignment\\Backend\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tails\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Tails\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
